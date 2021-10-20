@@ -3,6 +3,8 @@
 
 This is a (6kb) polyfill for the Web Share API that can be used in desktop too, so your users can share in their twitter, facebook, messenger, linkedin, sms, e-mail, print, telegram or whatsapp.
 
+[Demo](https://karytonn.github.io/web-share-api/)
+
 ## Install
 
 Just import in a head:
