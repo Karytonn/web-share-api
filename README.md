@@ -5,7 +5,7 @@ This is a (6kb) polyfill for the Web Share API that can be used in desktop too, 
 
 ## Install
 
-Just import it like in a head:
+Just import in a head:
 
 ```html
   <head>
