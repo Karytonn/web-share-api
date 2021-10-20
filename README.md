@@ -5,12 +5,15 @@ This is a (6kb) polyfill for the Web Share API that can be used in desktop too, 
 
 ## Install
 
-Just import it like so:
+Just import it like in a head:
 
 ```html
-  <script src="https://unpkg.com/share-api-polyfill/dist/share-min.js"></script>
+  <head>
+    ...
+    <script src="https://unpkg.com/share-api-polyfill/dist/share-min.js"></script>
+  </head>
 ```
-or
+or install
 
 ```bash
 npm install share-api-polyfill
@@ -54,7 +57,7 @@ function share() {
           )
       }
 ```
-## Created by
+## Credit
 
 [on2-dev](https://github.com/on2-dev/share-api-polyfill)
 
